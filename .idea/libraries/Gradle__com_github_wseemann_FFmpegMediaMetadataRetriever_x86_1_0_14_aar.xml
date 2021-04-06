@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.wseemann:FFmpegMediaMetadataRetriever-x86:1.0.14@aar">
+    <CLASSES>
+      <root url="jar://G:/Users/SDK/caches/transforms-2/files-2.1/5ed6daffa21047d54ad90930c7b5cc4b/FFmpegMediaMetadataRetriever-x86-1.0.14/jars/classes.jar!/" />
+      <root url="file://G:/Users/SDK/caches/transforms-2/files-2.1/5ed6daffa21047d54ad90930c7b5cc4b/FFmpegMediaMetadataRetriever-x86-1.0.14/res" />
+      <root url="file://G:/Users/SDK/caches/transforms-2/files-2.1/5ed6daffa21047d54ad90930c7b5cc4b/FFmpegMediaMetadataRetriever-x86-1.0.14/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://G:/Users/SDK/caches/modules-2/files-2.1/com.github.wseemann/FFmpegMediaMetadataRetriever-x86/1.0.14/9cc606c0e0d386cec4eb8bcef5e036fc67d52941/FFmpegMediaMetadataRetriever-x86-1.0.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

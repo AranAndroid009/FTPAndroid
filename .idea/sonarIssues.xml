@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AndroidBaseFrameMVVM-master/AndroidBaseFrameMVVM-master/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AndroidBaseFrameMVVM-master/AndroidBaseFrameMVVM-master/buildSrc/build.gradle.kts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jack/ftpclient/DetailNormalActivityPlayer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jack/ftpclient/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jack/ftpclient/factory/GetPathTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jack/ftpclient/fragment/BaseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jack/ftpclient/fragment/LoginFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jack/ftpclient/fragment/PathFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jack/ftpclient/util/Constant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jack/ftpclient/video/LandLayoutVideo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_detail_player.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_login.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/path_list_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Scanner-master/Scanner-master/bankcard/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Scanner-master/Scanner-master/baseocr/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Scanner-master/Scanner-master/drivinglicense/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Scanner-master/Scanner-master/idcard/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Scanner-master/Scanner-master/idcard2/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Scanner-master/Scanner-master/lib/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Scanner-master/Scanner-master/licenseplate/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Scanner-master/Scanner-master/nsfw/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Scanner-master/Scanner-master/text/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Scanner-master/Scanner-master/zbar/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/BaseStation/app/src/main/java/com/winspread/baseStation/ui/blackList/add/AddBlackListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/BaseStation/app/src/main/java/com/winspread/baseStation/ui/setting/map/MapActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/BaseStation/app/src/main/java/com/winspread/baseStation/view/TouchTextView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/BaseStation/app/src/main/res/layout/activity_login.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/BaseStation/app/src/main/res/layout/device_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/MyApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/network/bean/HeartBeatBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/network/http/HttpModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/network/tcpConnect/TCPService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/network/tcpConnect/handle/HandleModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/ui/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/ui/caseinfo/actions/ActionsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/ui/caseinfo/adapter/CaseinfoAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/ui/data/DataPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/ui/data/adapter/TargetAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/ui/map/CaseActionUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/ui/map/MapContract.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/ui/map/MapFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/ui/map/MapPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/ui/more/MoreFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/java/com/winspread/frameoffset/ui/more/actionsinfo/unuploadaction/UnuploadactionFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/res/layout/activity_actions.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/res/layout/dialog_map_addaction.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/res/layout/dialog_map_addcase.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/res/layout/dialog_map_addsign.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/res/layout/empty_white_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/res/layout/fragment_data.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/app/src/main/res/layout/fragment_more.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../svn/FrameOffset/config.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
